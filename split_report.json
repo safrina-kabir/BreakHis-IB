@@ -1,0 +1,13 @@
+{
+  "random_seed": 42,
+  "n_images_total": 0,
+  "n_patients_total": 0,
+  "strict_balanced": {
+    "counts": {},
+    "patients_per_split": {}
+  },
+  "natural": {
+    "counts": {},
+    "patients_per_split": {}
+  }
+}

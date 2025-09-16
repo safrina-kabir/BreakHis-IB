@@ -1,0 +1,40 @@
+BreakHis-IB (Inclusive & Balanced) — Dataset License
+Copyright (c) [2025] [Safrina Kabir]
+
+This dataset package includes:
+- Split metadata (CSV): splits_strict_balanced.csv, splits_natural.csv, metadata_ok.csv, metadata_raw.csv, parse_errors.csv
+- Reports & docs: split_report.json, README.md, DATASHEET.md
+- NOTE: No original BreakHis images are redistributed in this package.
+
+LICENSE
+This work (the materials listed above) is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+  Credit must include BOTH of the following:
+  (A) This derivative:
+      “[BreakHis-IB: Leakage-Checked Splits Across Magnifications for Robust BreakHis Evaluation], DOI, © [2025] [Safrina Kabir], CC BY 4.0.”
+  (B) The primary data source:
+      “BreakHis breast histopathology dataset (CC BY 4.0).” DOI:10.17632/jxwvdwhpc2.1
+
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+License text: https://creativecommons.org/licenses/by/4.0/
+Legal code:   https://creativecommons.org/licenses/by/4.0/legalcode
+
+PROVENANCE & SCOPE
+This package is a derivative work built from file paths and annotations parsed from the official BreakHis dataset.
+It does NOT contain any BreakHis image files. Users must obtain the original images from the official source and
+must comply with the BreakHis license when using those images.
+
+WARRANTY
+The materials are provided “as is”, without warranty of any kind, express or implied, including but not limited to
+the warranties of merchantability, fitness for a particular purpose and noninfringement.
+
+SPDX-License-Identifier: CC-BY-4.0
